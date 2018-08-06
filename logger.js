@@ -1,5 +1,5 @@
 const logger = phrase => {
-  console.log("your phrase is:", phrase);
+  console.log("Your input:", phrase);
 };
 
 module.exports = logger;
